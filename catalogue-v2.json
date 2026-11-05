@@ -1,0 +1,619 @@
+{
+ "version": 2,
+ "app": {
+  "nom": "MathSahl",
+  "auteur": "Pr. O. Essannany",
+  "theme": "encre",
+  "distant": "https://omargethub-lgtm.github.io/contenu/",
+  "contact": ""
+ },
+ "generated": 1793894854,
+ "pub": "SgRDcmN7ZJNK74P3SBTZJQ54G99quLsmf9y/IuU9PC4=",
+ "test_key": false,
+ "niveaux": [
+  {
+   "id": "tc",
+   "nom": "Tronc commun",
+   "court": "TC",
+   "glyphe": "TC",
+   "filieres": [
+    {
+     "id": "tcs",
+     "code": "ST",
+     "nom": "Sciences et technologies",
+     "sous_titre": null,
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "tcs-s1-01",
+         "titre": "L’ensemble ℕ et notions d’arithmétique",
+         "parts": {
+          "cours": {
+           "f": "c86794291b98b737",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "tcs-s1-02",
+         "titre": "Calcul vectoriel",
+         "parts": {
+          "cours": {
+           "f": "cc9a9a70932be507",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "tcs-s1-03",
+         "titre": "La projection dans le plan",
+         "parts": {
+          "cours": {
+           "f": "f0a08da993b38493",
+           "p": 0
+          },
+          "solutions": {
+           "f": "b213c782a81cc87c",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "tcs-s1-04",
+         "titre": "Ensembles de nombres",
+         "parts": {
+          "cours": {
+           "f": "8d4aa07166840b01",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "tcs-s1-05",
+         "titre": "L’ordre dans ℝ",
+         "parts": {
+          "cours": {
+           "f": "3e7f8acb08435377",
+           "p": 0
+          }
+         },
+         "beamer": {
+          "f": "5ace78afc715ae7f",
+          "m": "fff8de3f314db2c3",
+          "p": 0,
+          "n": 450,
+          "nf": 80,
+          "kb": 1530
+         }
+        },
+        {
+         "id": "tcs-s1-06",
+         "titre": "La droite dans le plan"
+        },
+        {
+         "id": "tcs-s1-07",
+         "titre": "Les polynômes"
+        },
+        {
+         "id": "tcs-s1-08",
+         "titre": "Équations, inéquations et systèmes"
+        },
+        {
+         "id": "tcs-s1-09",
+         "titre": "Calcul trigonométrique (partie 1)"
+        },
+        {
+         "id": "tcs-s1-10",
+         "titre": "Statistiques"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "tcs-s2-01",
+         "titre": "Calcul trigonométrique (suite)"
+        },
+        {
+         "id": "tcs-s2-02",
+         "titre": "Généralités sur les fonctions numériques"
+        },
+        {
+         "id": "tcs-s2-03",
+         "titre": "Transformations du plan"
+        },
+        {
+         "id": "tcs-s2-04",
+         "titre": "Produit scalaire"
+        },
+        {
+         "id": "tcs-s2-05",
+         "titre": "Géométrie dans l’espace"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "1bac",
+   "nom": "1re année Bac",
+   "court": "1re Bac",
+   "glyphe": "1<sup>re</sup>",
+   "filieres": [
+    {
+     "id": "1sm",
+     "code": "SM",
+     "nom": "Sciences mathématiques",
+     "sous_titre": null,
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "1sm-s1-01",
+         "titre": "Notions de logique",
+         "sans_cours": true,
+         "ex": 61,
+         "parts": {
+          "cours": {
+           "f": "c3dc7c1b98591aad",
+           "p": 0
+          },
+          "exercices": {
+           "f": "95483e47c171ee0d",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "1sm-s1-02",
+         "titre": "Ensembles et applications",
+         "sans_cours": true,
+         "ex": 145,
+         "parts": {
+          "cours": {
+           "f": "c3dc7c1b98591aad",
+           "p": 0
+          },
+          "exercices": {
+           "f": "57a0b535dca7ed01",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "1sm-s1-03",
+         "titre": "Généralités sur les fonctions"
+        },
+        {
+         "id": "1sm-s1-04",
+         "titre": "Barycentre dans le plan"
+        },
+        {
+         "id": "1sm-s1-05",
+         "titre": "Étude analytique du produit scalaire"
+        },
+        {
+         "id": "1sm-s1-06",
+         "titre": "Calcul trigonométrique"
+        },
+        {
+         "id": "1sm-s1-07",
+         "titre": "Suites numériques"
+        },
+        {
+         "id": "1sm-s1-08",
+         "titre": "Limite d’une fonction numérique"
+        },
+        {
+         "id": "1sm-s1-09",
+         "titre": "Rotation dans le plan"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        },
+        {
+         "n": 4,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "1sm-s2-01",
+         "titre": "Dérivation"
+        },
+        {
+         "id": "1sm-s2-02",
+         "titre": "Étude et représentation graphique des fonctions"
+        },
+        {
+         "id": "1sm-s2-03",
+         "titre": "Vecteurs de l’espace"
+        },
+        {
+         "id": "1sm-s2-04",
+         "titre": "Géométrie analytique de l’espace"
+        },
+        {
+         "id": "1sm-s2-05",
+         "titre": "Dénombrement"
+        },
+        {
+         "id": "1sm-s2-06",
+         "titre": "Produit scalaire dans l’espace et applications"
+        },
+        {
+         "id": "1sm-s2-07",
+         "titre": "Arithmétique dans ℤ"
+        },
+        {
+         "id": "1sm-s2-08",
+         "titre": "Produit vectoriel"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        },
+        {
+         "n": 4,
+         "versions": []
+        }
+       ]
+      }
+     }
+    },
+    {
+     "id": "1se",
+     "code": "SE",
+     "nom": "Sciences expérimentales",
+     "sous_titre": null,
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "1se-s1-01",
+         "titre": "Notions de logique"
+        },
+        {
+         "id": "1se-s1-02",
+         "titre": "Généralités sur les fonctions"
+        },
+        {
+         "id": "1se-s1-03",
+         "titre": "Barycentre dans le plan"
+        },
+        {
+         "id": "1se-s1-04",
+         "titre": "Étude analytique du produit scalaire"
+        },
+        {
+         "id": "1se-s1-05",
+         "titre": "Suites numériques"
+        },
+        {
+         "id": "1se-s1-06",
+         "titre": "Calcul trigonométrique"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "1se-s2-01",
+         "titre": "Limites d’une fonction numérique"
+        },
+        {
+         "id": "1se-s2-02",
+         "titre": "Rotation dans le plan"
+        },
+        {
+         "id": "1se-s2-03",
+         "titre": "Dérivation"
+        },
+        {
+         "id": "1se-s2-04",
+         "titre": "Vecteurs de l’espace"
+        },
+        {
+         "id": "1se-s2-05",
+         "titre": "Étude et représentation graphique des fonctions"
+        },
+        {
+         "id": "1se-s2-06",
+         "titre": "Géométrie analytique de l’espace"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "2bac",
+   "nom": "2e année Bac",
+   "court": "2e Bac",
+   "glyphe": "2<sup>e</sup>",
+   "filieres": [
+    {
+     "id": "2se",
+     "code": "SE",
+     "nom": "Sciences expérimentales",
+     "sous_titre": "PC · SVT",
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "2se-s1-01",
+         "titre": "Continuité",
+         "ex": 12,
+         "parts": {
+          "cours": {
+           "f": "3768e19277e7848c",
+           "p": 0
+          },
+          "solutions": {
+           "f": "279bf6f945e6e7fe",
+           "p": 0
+          },
+          "resume": {
+           "f": "8e2f6ac7bc286224",
+           "p": 0
+          },
+          "exercices": {
+           "f": "e2084097b6a2b288",
+           "p": 0
+          },
+          "correction": {
+           "f": "ef4b71f498537651",
+           "p": 0
+          }
+         }
+        },
+        {
+         "id": "2se-s1-02",
+         "titre": "Dérivation"
+        },
+        {
+         "id": "2se-s1-03",
+         "titre": "Étude des fonctions"
+        },
+        {
+         "id": "2se-s1-04",
+         "titre": "Suites numériques"
+        },
+        {
+         "id": "2se-s1-05",
+         "titre": "Fonctions primitives"
+        },
+        {
+         "id": "2se-s1-06",
+         "titre": "Fonctions logarithmiques"
+        },
+        {
+         "id": "2se-s1-07",
+         "titre": "Nombres complexes"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": [
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "138721457e06dfe7",
+            "p": 0
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "f0a3ca23fcf1dd6d",
+            "p": 0
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "c3323ea2e41434fd",
+            "p": 0
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "5ef289f59faccd54",
+            "p": 0
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "80d7e924d2ebac0c",
+            "p": 0
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "ac1bdd3378b158a7",
+            "p": 0
+           }
+          }
+         ],
+         "methodes": {
+          "f": "b608f68c228715e2",
+          "p": 0
+         }
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "2se-s2-01",
+         "titre": "Fonctions exponentielles"
+        },
+        {
+         "id": "2se-s2-02",
+         "titre": "Équations différentielles"
+        },
+        {
+         "id": "2se-s2-03",
+         "titre": "Calcul intégral"
+        },
+        {
+         "id": "2se-s2-04",
+         "titre": "Géométrie dans l’espace"
+        },
+        {
+         "id": "2se-s2-05",
+         "titre": "Calcul des probabilités"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
