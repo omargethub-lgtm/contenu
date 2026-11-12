@@ -1,0 +1,1757 @@
+{
+ "version": 2,
+ "app": {
+  "nom": "MathSahl",
+  "auteur": "",
+  "theme": "encre",
+  "contact": "",
+  "support": "mathsahl.app@gmail.com",
+  "confidentialite": "https://contenu.mathsahl.com/confidentialite.html",
+  "distant": "https://contenu.mathsahl.com/",
+  "secours": [
+   "https://mathsahl-app.web.app/"
+  ]
+ },
+ "generated": 1794443955,
+ "pubs": {
+  "2": "628nMWRjoC8k52JlQC0nvDai9LKMH5DE5mqHoz9+R+0=",
+  "3": "Wco3etuTngZn0/5So0SmbWM6tYnGX09jJz8cEh5EAp8="
+ },
+ "test_key": false,
+ "saison": 2026,
+ "cpubs": [
+  "2D5pcsoDUx7a5zTY3sHTHA2uSkBV5lEMotRSoL5CZcM="
+ ],
+ "cles_limites": {},
+ "liens": [],
+ "aide": [
+  {
+   "q": "J’ai reçu un code : comment l’activer ?",
+   "r": "Copiez tout le message reçu, puis dans l’application : Compte → Saisir un code → Coller → Activer.\n\nLe code est lié à cet appareil : il ne fonctionne pas sur un autre téléphone ou ordinateur."
+  },
+  {
+   "q": "« Ce code ne correspond pas à cet appareil »",
+   "r": "Le code a été fait pour un autre identifiant. Vérifiez l’identifiant affiché dans Compte (12 caractères, par ex. 8D3D-E0E8-83D2) et demandez un code pour celui-ci."
+  },
+  {
+   "q": "J’ai effacé les données ou réinstallé l’application",
+   "r": "Sur le même téléphone, l’identifiant ne change pas : le même code fonctionne encore. Si vous ne l’avez plus, communiquez l’identifiant affiché dans Compte pour le retrouver."
+  },
+  {
+   "q": "J’ai changé de téléphone",
+   "r": "Le nouveau téléphone a un autre identifiant : il faut un nouveau code pour lui. Votre progression peut revenir avec la sauvegarde de Google ; l’abonnement, non."
+  },
+  {
+   "q": "Le contenu ne s’affiche pas ou il manque une leçon",
+   "r": "La première ouverture d’une filière demande Internet une fois, ensuite tout fonctionne sans connexion.\n\nPour les nouveautés : Compte → Nouveautés → Vérifier."
+  },
+  {
+   "q": "« La date de cet appareil semble incorrecte »",
+   "r": "Dans les réglages du téléphone, activez « Date et heure automatiques », puis rouvrez l’application avec Internet."
+  },
+  {
+   "q": "Jusqu’à quand mon abonnement est-il valable ?",
+   "r": "Jusqu’au 31 juillet de l’année scolaire indiquée dans Compte → Abonnement. Chaque année scolaire a son propre abonnement."
+  },
+  {
+   "q": "L’application demande une mise à jour",
+   "r": "Installez la dernière version depuis Google Play (ou le Microsoft Store sur ordinateur). Vos abonnements et votre progression sont conservés."
+  }
+ ],
+ "niveaux": [
+  {
+   "id": "tc",
+   "nom": "Tronc commun",
+   "court": "TC",
+   "glyphe": "TC",
+   "filieres": [
+    {
+     "id": "tcs",
+     "code": "ST",
+     "nom": "Sciences et technologies",
+     "sous_titre": null,
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "tcs-s1-01",
+         "titre": "L’ensemble ℕ et notions d’arithmétique",
+         "ex": 74,
+         "parts": {
+          "cours": {
+           "f": "b85e019194f268bf",
+           "p": 0,
+           "k": 238
+          },
+          "resume": {
+           "f": "942ee7421ab7c5dc",
+           "p": 0,
+           "k": 72
+          },
+          "exercices": {
+           "f": "fd9ed36977adad9e",
+           "p": 0,
+           "k": 459
+          },
+          "correction": {
+           "f": "8be15875aa0a297e",
+           "p": 0,
+           "k": 1274
+          },
+          "qcm": {
+           "f": "3cca2bcdfeaed76b",
+           "p": 0,
+           "k": 100
+          }
+         },
+         "beamer": {
+          "f": "7d778575893711ef",
+          "m": "670368f1be2518f4",
+          "p": 0,
+          "n": 148,
+          "nf": 50,
+          "kb": 436
+         }
+        },
+        {
+         "id": "tcs-s1-02",
+         "titre": "Calcul vectoriel",
+         "ex": 87,
+         "parts": {
+          "cours": {
+           "f": "2ed468bc5242507c",
+           "p": 0,
+           "k": 1031
+          },
+          "solutions": {
+           "f": "4fb07f381f4e7167",
+           "p": 0,
+           "k": 694
+          },
+          "resume": {
+           "f": "7512a37f560ff853",
+           "p": 0,
+           "k": 341
+          },
+          "exercices": {
+           "f": "1ad13647c61f7f6d",
+           "p": 0,
+           "k": 1586
+          },
+          "correction": {
+           "f": "0188997555ca2853",
+           "p": 0,
+           "k": 5961
+          },
+          "qcm": {
+           "f": "147f287b50173c36",
+           "p": 0,
+           "k": 876
+          }
+         },
+         "beamer": {
+          "f": "2443fee964834464",
+          "m": "9ddd4cb050f2bb1f",
+          "p": 0,
+          "n": 184,
+          "nf": 54,
+          "kb": 620
+         }
+        },
+        {
+         "id": "tcs-s1-03",
+         "titre": "La projection dans le plan",
+         "ex": 62,
+         "parts": {
+          "cours": {
+           "f": "540c923cb89b2a08",
+           "p": 0,
+           "k": 842
+          },
+          "solutions": {
+           "f": "b380796c5ed2194e",
+           "p": 0,
+           "k": 651
+          },
+          "resume": {
+           "f": "7cba4e857cc36978",
+           "p": 0,
+           "k": 193
+          },
+          "exercices": {
+           "f": "48214bc9509b869e",
+           "p": 0,
+           "k": 977
+          },
+          "correction": {
+           "f": "3ac67bc4be8c3aaf",
+           "p": 0,
+           "k": 1749
+          },
+          "qcm": {
+           "f": "0bcc1156d087a501",
+           "p": 0,
+           "k": 258
+          }
+         },
+         "beamer": {
+          "f": "5fa75ae33cf6d13c",
+          "m": "dd97efbbf7a3a61e",
+          "p": 0,
+          "n": 171,
+          "nf": 71,
+          "kb": 677
+         }
+        },
+        {
+         "id": "tcs-s1-04",
+         "titre": "Ensembles de nombres",
+         "ex": 60,
+         "parts": {
+          "cours": {
+           "f": "fe37a46a9ea4e5a5",
+           "p": 0,
+           "k": 795
+          },
+          "solutions": {
+           "f": "dc87722061815dfb",
+           "p": 0,
+           "k": 467
+          },
+          "resume": {
+           "f": "6044fc90869395c5",
+           "p": 0,
+           "k": 239
+          },
+          "exercices": {
+           "f": "946d68ea00fa410a",
+           "p": 0,
+           "k": 692
+          },
+          "correction": {
+           "f": "96b51826dd102656",
+           "p": 0,
+           "k": 1342
+          },
+          "qcm": {
+           "f": "ae5795522df7c8ce",
+           "p": 0,
+           "k": 531
+          }
+         },
+         "beamer": {
+          "f": "61dde3f405eef7e4",
+          "m": "db6e1e7dd37483e7",
+          "p": 0,
+          "n": 205,
+          "nf": 68,
+          "kb": 623
+         }
+        },
+        {
+         "id": "tcs-s1-05",
+         "titre": "L’ordre dans ℝ",
+         "ex": 88,
+         "parts": {
+          "cours": {
+           "f": "d8c0813335ac8ab6",
+           "p": 0,
+           "k": 756
+          },
+          "solutions": {
+           "f": "73758ab6e6d5a016",
+           "p": 0,
+           "k": 299
+          },
+          "resume": {
+           "f": "ab8af902de1381fc",
+           "p": 0,
+           "k": 182
+          },
+          "exercices": {
+           "f": "6b74469ac3239ce5",
+           "p": 0,
+           "k": 1006
+          },
+          "correction": {
+           "f": "08970632fd4d2e75",
+           "p": 1,
+           "k": 6156
+          },
+          "qcm": {
+           "f": "b66e8bc3a28e13d6",
+           "p": 0,
+           "k": 416
+          }
+         },
+         "beamer": {
+          "f": "769e71f841fdf020",
+          "m": "9b86b8bd28315c4c",
+          "p": 0,
+          "n": 431,
+          "nf": 77,
+          "kb": 1443
+         }
+        },
+        {
+         "id": "tcs-s1-06",
+         "titre": "La droite dans le plan",
+         "ex": 71,
+         "parts": {
+          "cours": {
+           "f": "ec094fd5ce177277",
+           "p": 0,
+           "k": 1011
+          },
+          "resume": {
+           "f": "3403cf1ef288bb42",
+           "p": 0,
+           "k": 258
+          },
+          "exercices": {
+           "f": "dcea1d52156a6d2f",
+           "p": 0,
+           "k": 773
+          },
+          "correction": {
+           "f": "f8a2b78fec5743bc",
+           "p": 1,
+           "k": 2433
+          },
+          "qcm": {
+           "f": "e67d3b0397b040ae",
+           "p": 0,
+           "k": 668
+          }
+         },
+         "beamer": {
+          "f": "8093fd553116b159",
+          "m": "52cc021ee924a205",
+          "p": 0,
+          "n": 214,
+          "nf": 55,
+          "kb": 823
+         }
+        },
+        {
+         "id": "tcs-s1-07",
+         "titre": "Les polynômes"
+        },
+        {
+         "id": "tcs-s1-08",
+         "titre": "Équations, inéquations et systèmes"
+        },
+        {
+         "id": "tcs-s1-09",
+         "titre": "Calcul trigonométrique (partie 1)"
+        },
+        {
+         "id": "tcs-s1-10",
+         "titre": "Statistiques"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "tcs-s2-01",
+         "titre": "Calcul trigonométrique (suite)"
+        },
+        {
+         "id": "tcs-s2-02",
+         "titre": "Généralités sur les fonctions numériques"
+        },
+        {
+         "id": "tcs-s2-03",
+         "titre": "Transformations du plan"
+        },
+        {
+         "id": "tcs-s2-04",
+         "titre": "Produit scalaire"
+        },
+        {
+         "id": "tcs-s2-05",
+         "titre": "Géométrie dans l’espace"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "1bac",
+   "nom": "1re année Bac",
+   "court": "1re Bac",
+   "glyphe": "1<sup>re</sup>",
+   "filieres": [
+    {
+     "id": "1sm",
+     "code": "SM",
+     "nom": "Sciences mathématiques",
+     "sous_titre": null,
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "1sm-s1-01",
+         "titre": "Notions de logique",
+         "ex": 81,
+         "parts": {
+          "cours": {
+           "f": "461105f6a45c3bf1",
+           "p": 0,
+           "k": 539
+          },
+          "solutions": {
+           "f": "9e3dd4300eb6d3d0",
+           "p": 0,
+           "k": 364
+          },
+          "resume": {
+           "f": "c18f685591a7bd07",
+           "p": 0,
+           "k": 143
+          },
+          "exercices": {
+           "f": "72a00b1598596447",
+           "p": 0,
+           "k": 669
+          },
+          "correction": {
+           "f": "6f131102f0eb98a2",
+           "p": 0,
+           "k": 1468
+          },
+          "qcm": {
+           "f": "f4681417a1c7f89a",
+           "p": 0,
+           "k": 271
+          }
+         },
+         "beamer": {
+          "f": "7952175d418d44e1",
+          "m": "485fbcf258e66bfa",
+          "p": 0,
+          "n": 237,
+          "nf": 64,
+          "kb": 840
+         }
+        },
+        {
+         "id": "1sm-s1-02",
+         "titre": "Ensembles et applications",
+         "ex": 67,
+         "parts": {
+          "cours": {
+           "f": "4716c16f042827b4",
+           "p": 0,
+           "k": 807
+          },
+          "solutions": {
+           "f": "f36d68dca141a0c5",
+           "p": 0,
+           "k": 403
+          },
+          "resume": {
+           "f": "6a63074743426d36",
+           "p": 0,
+           "k": 219
+          },
+          "exercices": {
+           "f": "711b6d910f698f85",
+           "p": 0,
+           "k": 624
+          },
+          "correction": {
+           "f": "11e59118f2e004bc",
+           "p": 0,
+           "k": 1322
+          },
+          "qcm": {
+           "f": "abdc74fd1b5c923a",
+           "p": 0,
+           "k": 475
+          }
+         },
+         "beamer": {
+          "f": "29cf9fb3a36d4512",
+          "m": "e93fe2036ab508e3",
+          "p": 0,
+          "n": 253,
+          "nf": 110,
+          "kb": 735
+         }
+        },
+        {
+         "id": "1sm-s1-03",
+         "titre": "Généralités sur les fonctions",
+         "ex": 72,
+         "parts": {
+          "cours": {
+           "f": "8085abe0e6cc06a7",
+           "p": 0,
+           "k": 720
+          },
+          "solutions": {
+           "f": "e307cbec2571b3fe",
+           "p": 0,
+           "k": 525
+          },
+          "resume": {
+           "f": "ee368085c64721b8",
+           "p": 0,
+           "k": 188
+          },
+          "exercices": {
+           "f": "fc5c00936588173c",
+           "p": 0,
+           "k": 791
+          },
+          "correction": {
+           "f": "19ef6c102c735561",
+           "p": 0,
+           "k": 1546
+          },
+          "qcm": {
+           "f": "190ccce3fc71ae12",
+           "p": 0,
+           "k": 457
+          }
+         },
+         "beamer": {
+          "f": "89dc4e4ca40a7743",
+          "m": "1e054c8ce5330a00",
+          "p": 0,
+          "n": 263,
+          "nf": 94,
+          "kb": 902
+         }
+        },
+        {
+         "id": "1sm-s1-04",
+         "titre": "Barycentre dans le plan",
+         "ex": 72,
+         "parts": {
+          "cours": {
+           "f": "25b998100c2347c9",
+           "p": 0,
+           "k": 790
+          },
+          "solutions": {
+           "f": "9718114cc0ffa190",
+           "p": 0,
+           "k": 591
+          },
+          "resume": {
+           "f": "63ce1da9b40e6f0f",
+           "p": 0,
+           "k": 201
+          },
+          "exercices": {
+           "f": "530f95282093f155",
+           "p": 0,
+           "k": 973
+          },
+          "correction": {
+           "f": "3737bbe90946b88d",
+           "p": 0,
+           "k": 1699
+          },
+          "qcm": {
+           "f": "9b6df52202b0dd58",
+           "p": 0,
+           "k": 437
+          }
+         },
+         "beamer": {
+          "f": "faeee1705fe665a0",
+          "m": "c4ac5ccf82e8882f",
+          "p": 0,
+          "n": 167,
+          "nf": 69,
+          "kb": 527
+         }
+        },
+        {
+         "id": "1sm-s1-05",
+         "titre": "Étude analytique du produit scalaire",
+         "ex": 71,
+         "parts": {
+          "cours": {
+           "f": "b771b26a1e878edf",
+           "p": 0,
+           "k": 879
+          },
+          "solutions": {
+           "f": "e22df0c98a07a3b2",
+           "p": 0,
+           "k": 578
+          },
+          "resume": {
+           "f": "0bd73be1dee08b40",
+           "p": 0,
+           "k": 189
+          },
+          "exercices": {
+           "f": "5b81780bc5974172",
+           "p": 0,
+           "k": 738
+          },
+          "correction": {
+           "f": "915af67049072c07",
+           "p": 1,
+           "k": 3207
+          },
+          "qcm": {
+           "f": "633a1b00b542d929",
+           "p": 0,
+           "k": 550
+          }
+         },
+         "beamer": {
+          "f": "3a469d19fcfe55ff",
+          "m": "be091288e468533e",
+          "p": 0,
+          "n": 195,
+          "nf": 78,
+          "kb": 639
+         }
+        },
+        {
+         "id": "1sm-s1-06",
+         "titre": "Calcul trigonométrique",
+         "ex": 74,
+         "parts": {
+          "cours": {
+           "f": "32d39d6763a69e57",
+           "p": 0,
+           "k": 672
+          },
+          "resume": {
+           "f": "90812c35ccca9475",
+           "p": 0,
+           "k": 197
+          },
+          "exercices": {
+           "f": "04322279667844d9",
+           "p": 0,
+           "k": 802
+          },
+          "correction": {
+           "f": "9f96e120c62b7727",
+           "p": 1,
+           "k": 3392
+          },
+          "qcm": {
+           "f": "8ec4ec73722e84ba",
+           "p": 0,
+           "k": 365
+          }
+         },
+         "beamer": {
+          "f": "0aca3ea82e2112cc",
+          "m": "372bc071c98657cb",
+          "p": 0,
+          "n": 191,
+          "nf": 66,
+          "kb": 679
+         }
+        },
+        {
+         "id": "1sm-s1-07",
+         "titre": "Suites numériques",
+         "ex": 73,
+         "parts": {
+          "cours": {
+           "f": "705e7b4871736c28",
+           "p": 0,
+           "k": 887
+          },
+          "resume": {
+           "f": "f38e5723368ea6db",
+           "p": 0,
+           "k": 215
+          },
+          "exercices": {
+           "f": "975996fd46613d79",
+           "p": 0,
+           "k": 1059
+          },
+          "correction": {
+           "f": "9e21d400da07f25c",
+           "p": 1,
+           "k": 2804
+          },
+          "qcm": {
+           "f": "c37fe71d338a75ca",
+           "p": 0,
+           "k": 471
+          }
+         },
+         "beamer": {
+          "f": "44deb78a49ca008f",
+          "m": "099d689f92019f92",
+          "p": 0,
+          "n": 238,
+          "nf": 69,
+          "kb": 865
+         }
+        },
+        {
+         "id": "1sm-s1-08",
+         "titre": "Limite d’une fonction numérique"
+        },
+        {
+         "id": "1sm-s1-09",
+         "titre": "Rotation dans le plan"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        },
+        {
+         "n": 4,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "1sm-s2-01",
+         "titre": "Dérivation"
+        },
+        {
+         "id": "1sm-s2-02",
+         "titre": "Étude et représentation graphique des fonctions"
+        },
+        {
+         "id": "1sm-s2-03",
+         "titre": "Vecteurs de l’espace"
+        },
+        {
+         "id": "1sm-s2-04",
+         "titre": "Géométrie analytique de l’espace"
+        },
+        {
+         "id": "1sm-s2-05",
+         "titre": "Dénombrement"
+        },
+        {
+         "id": "1sm-s2-06",
+         "titre": "Produit scalaire dans l’espace et applications"
+        },
+        {
+         "id": "1sm-s2-07",
+         "titre": "Arithmétique dans ℤ"
+        },
+        {
+         "id": "1sm-s2-08",
+         "titre": "Produit vectoriel"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        },
+        {
+         "n": 4,
+         "versions": []
+        }
+       ]
+      }
+     }
+    },
+    {
+     "id": "1se",
+     "code": "SE",
+     "nom": "Sciences expérimentales",
+     "sous_titre": null,
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "1se-s1-01",
+         "titre": "Notions de logique",
+         "ex": 86,
+         "parts": {
+          "cours": {
+           "f": "5ca8106ef04bb6ac",
+           "p": 0,
+           "k": 459
+          },
+          "resume": {
+           "f": "15dfb9c78d8a9d40",
+           "p": 0,
+           "k": 106
+          },
+          "exercices": {
+           "f": "17cbc3283962a30f",
+           "p": 0,
+           "k": 676
+          },
+          "correction": {
+           "f": "ed691d5d50e04a81",
+           "p": 0,
+           "k": 1403
+          },
+          "qcm": {
+           "f": "eef01160429be498",
+           "p": 0,
+           "k": 249
+          }
+         },
+         "beamer": {
+          "f": "cc162236336ab801",
+          "m": "16c0fc5227ba9324",
+          "p": 0,
+          "n": 230,
+          "nf": 74,
+          "kb": 768
+         }
+        },
+        {
+         "id": "1se-s1-02",
+         "titre": "Généralités sur les fonctions",
+         "ex": 78,
+         "parts": {
+          "cours": {
+           "f": "148b4e1e3ba36df0",
+           "p": 0,
+           "k": 982
+          },
+          "solutions": {
+           "f": "b713963326459755",
+           "p": 0,
+           "k": 461
+          },
+          "resume": {
+           "f": "a7caa5b9706a6386",
+           "p": 0,
+           "k": 144
+          },
+          "exercices": {
+           "f": "649e290b37aff542",
+           "p": 0,
+           "k": 816
+          },
+          "correction": {
+           "f": "cace5c66e1b47715",
+           "p": 0,
+           "k": 1786
+          },
+          "qcm": {
+           "f": "ebe6afb82b65027a",
+           "p": 0,
+           "k": 291
+          }
+         },
+         "beamer": {
+          "f": "0078af042154c095",
+          "m": "63202b25bdbff4b1",
+          "p": 0,
+          "n": 263,
+          "nf": 117,
+          "kb": 828
+         }
+        },
+        {
+         "id": "1se-s1-03",
+         "titre": "Barycentre dans le plan",
+         "ex": 75,
+         "parts": {
+          "cours": {
+           "f": "a310a051967110e1",
+           "p": 0,
+           "k": 831
+          },
+          "solutions": {
+           "f": "0ede3380c95abd86",
+           "p": 0,
+           "k": 569
+          },
+          "resume": {
+           "f": "672d5ca8330c55ed",
+           "p": 0,
+           "k": 169
+          },
+          "exercices": {
+           "f": "4f2f3f4a091b484a",
+           "p": 0,
+           "k": 1114
+          },
+          "correction": {
+           "f": "9af9dd5cd2e6cea8",
+           "p": 0,
+           "k": 2008
+          },
+          "qcm": {
+           "f": "04554a630383b98f",
+           "p": 0,
+           "k": 415
+          }
+         },
+         "beamer": {
+          "f": "8c9882ceab0e118a",
+          "m": "a415bcf5f7463d5e",
+          "p": 0,
+          "n": 174,
+          "nf": 72,
+          "kb": 546
+         }
+        },
+        {
+         "id": "1se-s1-04",
+         "titre": "Étude analytique du produit scalaire",
+         "ex": 73,
+         "parts": {
+          "cours": {
+           "f": "64aa57c9203fdc43",
+           "p": 0,
+           "k": 1158
+          },
+          "solutions": {
+           "f": "beabf7611fb0dadd",
+           "p": 0,
+           "k": 748
+          },
+          "resume": {
+           "f": "0d582416f936bd3c",
+           "p": 0,
+           "k": 237
+          },
+          "exercices": {
+           "f": "d5a07fbe60da7949",
+           "p": 0,
+           "k": 762
+          },
+          "qcm": {
+           "f": "9d60e624c1a85f5c",
+           "p": 0,
+           "k": 665
+          }
+         },
+         "beamer": {
+          "f": "6b4c456f26ba169c",
+          "m": "a0bb043f53a64f11",
+          "p": 0,
+          "n": 239,
+          "nf": 94,
+          "kb": 776
+         }
+        },
+        {
+         "id": "1se-s1-05",
+         "titre": "Suites numériques",
+         "parts": {
+          "cours": {
+           "f": "bcf916f9e559c2de",
+           "p": 0,
+           "k": 747
+          },
+          "solutions": {
+           "f": "c288c3d5ad9b0e7e",
+           "p": 0,
+           "k": 522
+          },
+          "resume": {
+           "f": "0738540026ea7534",
+           "p": 0,
+           "k": 202
+          },
+          "qcm": {
+           "f": "65d28ae39e6d2e75",
+           "p": 0,
+           "k": 359
+          }
+         },
+         "beamer": {
+          "f": "9b2011a48799f613",
+          "m": "1a968162d6e15810",
+          "p": 0,
+          "n": 219,
+          "nf": 69,
+          "kb": 777
+         }
+        },
+        {
+         "id": "1se-s1-06",
+         "titre": "Calcul trigonométrique",
+         "sans_cours": true,
+         "ex": 76,
+         "parts": {
+          "cours": {
+           "f": "c3dc7c1b98591aad",
+           "p": 0,
+           "k": 1
+          },
+          "exercices": {
+           "f": "e7b1d079f74d29ab",
+           "p": 0,
+           "k": 695
+          },
+          "correction": {
+           "f": "5de70c0df92d6ff7",
+           "p": 1,
+           "k": 2726
+          }
+         }
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "1se-s2-01",
+         "titre": "Limites d’une fonction numérique"
+        },
+        {
+         "id": "1se-s2-02",
+         "titre": "Rotation dans le plan"
+        },
+        {
+         "id": "1se-s2-03",
+         "titre": "Dérivation"
+        },
+        {
+         "id": "1se-s2-04",
+         "titre": "Vecteurs de l’espace"
+        },
+        {
+         "id": "1se-s2-05",
+         "titre": "Étude et représentation graphique des fonctions"
+        },
+        {
+         "id": "1se-s2-06",
+         "titre": "Géométrie analytique de l’espace"
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  {
+   "id": "2bac",
+   "nom": "2e année Bac",
+   "court": "2e Bac",
+   "glyphe": "2<sup>e</sup>",
+   "filieres": [
+    {
+     "id": "2se",
+     "code": "SE",
+     "nom": "Sciences expérimentales",
+     "sous_titre": "PC · SVT",
+     "semestres": {
+      "1": {
+       "lecons": [
+        {
+         "id": "2se-s1-01",
+         "titre": "Continuité",
+         "ex": 79,
+         "parts": {
+          "cours": {
+           "f": "99bea708c3d47660",
+           "p": 0,
+           "k": 1168
+          },
+          "solutions": {
+           "f": "8097f37fc329e3b9",
+           "p": 0,
+           "k": 566
+          },
+          "resume": {
+           "f": "093d95f40837b0ba",
+           "p": 0,
+           "k": 268
+          },
+          "exercices": {
+           "f": "234924520e3e48fb",
+           "p": 0,
+           "k": 804
+          },
+          "correction": {
+           "f": "d9ef44fac3caa6be",
+           "p": 0,
+           "k": 2113
+          },
+          "qcm": {
+           "f": "be5931c245901ae2",
+           "p": 0,
+           "k": 475
+          },
+          "cartes": {
+           "f": "80ba046a0f240bf1",
+           "p": 0,
+           "k": 144
+          },
+          "lexique": {
+           "f": "e597450ddf6d8aad",
+           "p": 0,
+           "k": 43
+          }
+         },
+         "beamer": {
+          "f": "2fade28230f9ce63",
+          "m": "9d647ece9a928695",
+          "p": 0,
+          "n": 275,
+          "nf": 82,
+          "kb": 955
+         }
+        },
+        {
+         "id": "2se-s1-02",
+         "titre": "Dérivation",
+         "ex": 79,
+         "parts": {
+          "cours": {
+           "f": "a2f8facab096fca4",
+           "p": 0,
+           "k": 785
+          },
+          "solutions": {
+           "f": "50b94166aedd5916",
+           "p": 0,
+           "k": 582
+          },
+          "resume": {
+           "f": "f68d7b34972d729e",
+           "p": 0,
+           "k": 255
+          },
+          "exercices": {
+           "f": "4cf63a40a17f7256",
+           "p": 0,
+           "k": 881
+          },
+          "correction": {
+           "f": "4c0227948e75b211",
+           "p": 0,
+           "k": 3476
+          },
+          "qcm": {
+           "f": "41a61469985789c6",
+           "p": 0,
+           "k": 518
+          }
+         },
+         "beamer": {
+          "f": "56af45504fa4cd60",
+          "m": "a65394d0e7606f91",
+          "p": 0,
+          "n": 190,
+          "nf": 81,
+          "kb": 658
+         }
+        },
+        {
+         "id": "2se-s1-03",
+         "titre": "Étude des fonctions",
+         "parts": {
+          "cours": {
+           "f": "2a1e7fa56c2d6ca5",
+           "p": 0,
+           "k": 706
+          },
+          "solutions": {
+           "f": "5ec72563149b56e5",
+           "p": 0,
+           "k": 820
+          },
+          "resume": {
+           "f": "4f04496f21f63ab1",
+           "p": 0,
+           "k": 155
+          },
+          "qcm": {
+           "f": "a6000c1ebe16417e",
+           "p": 0,
+           "k": 354
+          }
+         },
+         "beamer": {
+          "f": "f3e1ed56aaf5b740",
+          "m": "90d34af3c7b58227",
+          "p": 0,
+          "n": 192,
+          "nf": 80,
+          "kb": 643
+         }
+        },
+        {
+         "id": "2se-s1-04",
+         "titre": "Suites numériques",
+         "ex": 66,
+         "parts": {
+          "cours": {
+           "f": "219e0d8295d35d5e",
+           "p": 0,
+           "k": 770
+          },
+          "solutions": {
+           "f": "60e01b38d6e9e975",
+           "p": 0,
+           "k": 665
+          },
+          "resume": {
+           "f": "f7f5476a757a6d5e",
+           "p": 0,
+           "k": 163
+          },
+          "exercices": {
+           "f": "2d476d1dab812480",
+           "p": 0,
+           "k": 1173
+          },
+          "correction": {
+           "f": "4f485f6ded35be6a",
+           "p": 0,
+           "k": 2207
+          },
+          "qcm": {
+           "f": "0d7c16dbfccf107d",
+           "p": 0,
+           "k": 307
+          }
+         },
+         "beamer": {
+          "f": "10ac230048bc4ddf",
+          "m": "87b610a2807ed445",
+          "p": 0,
+          "n": 179,
+          "nf": 85,
+          "kb": 568
+         }
+        },
+        {
+         "id": "2se-s1-05",
+         "titre": "Fonctions primitives",
+         "ex": 73,
+         "parts": {
+          "cours": {
+           "f": "0ddcd3d09313f553",
+           "p": 0,
+           "k": 453
+          },
+          "solutions": {
+           "f": "e34cc3974ad8278c",
+           "p": 0,
+           "k": 301
+          },
+          "resume": {
+           "f": "49e37581b2678582",
+           "p": 0,
+           "k": 147
+          },
+          "exercices": {
+           "f": "7aaab9acfcdf3788",
+           "p": 0,
+           "k": 793
+          },
+          "correction": {
+           "f": "6445a5c9aa319cf3",
+           "p": 1,
+           "k": 2075
+          },
+          "qcm": {
+           "f": "6703ee797dcaad24",
+           "p": 0,
+           "k": 265
+          }
+         },
+         "beamer": {
+          "f": "4996b9d8cc515a47",
+          "m": "b00733b44c7ce256",
+          "p": 0,
+          "n": 121,
+          "nf": 38,
+          "kb": 461
+         }
+        },
+        {
+         "id": "2se-s1-06",
+         "titre": "Fonctions logarithmiques",
+         "ex": 69,
+         "parts": {
+          "cours": {
+           "f": "1ed2074380b3cd61",
+           "p": 0,
+           "k": 809
+          },
+          "resume": {
+           "f": "201dbe48a436f2d4",
+           "p": 0,
+           "k": 216
+          },
+          "exercices": {
+           "f": "0b0e81b9d5054a54",
+           "p": 0,
+           "k": 1019
+          },
+          "correction": {
+           "f": "718ed72a30106f0f",
+           "p": 1,
+           "k": 2974
+          },
+          "qcm": {
+           "f": "bad184232b7e1889",
+           "p": 0,
+           "k": 398
+          }
+         },
+         "beamer": {
+          "f": "24684fd4f4e7ac69",
+          "m": "8ed2ddbb713a52f4",
+          "p": 0,
+          "n": 220,
+          "nf": 62,
+          "kb": 1009
+         }
+        },
+        {
+         "id": "2se-s1-07",
+         "titre": "Nombres complexes",
+         "ex": 76,
+         "parts": {
+          "cours": {
+           "f": "4342aae7356d7070",
+           "p": 0,
+           "k": 998
+          },
+          "resume": {
+           "f": "70d2b17184b888ce",
+           "p": 0,
+           "k": 291
+          },
+          "exercices": {
+           "f": "ab65e3c4d48d2f6e",
+           "p": 0,
+           "k": 670
+          },
+          "correction": {
+           "f": "b8ff4fcb7dde50b0",
+           "p": 1,
+           "k": 2882
+          },
+          "qcm": {
+           "f": "d6086e80b101aa41",
+           "p": 0,
+           "k": 885
+          }
+         },
+         "beamer": {
+          "f": "bff22c4cf54f6fdb",
+          "m": "a0d03f78b38c17ca",
+          "p": 0,
+          "n": 326,
+          "nf": 115,
+          "kb": 948
+         }
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": [
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "138721457e06dfe7",
+            "p": 0,
+            "k": 69
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "f0a3ca23fcf1dd6d",
+            "p": 0,
+            "k": 75
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "c3323ea2e41434fd",
+            "p": 0,
+            "k": 69
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "5ef289f59faccd54",
+            "p": 0,
+            "k": 78
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "80d7e924d2ebac0c",
+            "p": 0,
+            "k": 70
+           }
+          },
+          {
+           "lecons": [
+            "Continuité",
+            "Dérivation"
+           ],
+           "duree": "2 heures",
+           "bareme": "20",
+           "nex": 4,
+           "enonce": {
+            "f": "ac1bdd3378b158a7",
+            "p": 0,
+            "k": 71
+           }
+          }
+         ],
+         "methodes": {
+          "f": "b608f68c228715e2",
+          "p": 0,
+          "k": 1623
+         }
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      },
+      "2": {
+       "lecons": [
+        {
+         "id": "2se-s2-01",
+         "titre": "Fonctions exponentielles",
+         "ex": 62,
+         "parts": {
+          "cours": {
+           "f": "67b4a0df3d2a1ca2",
+           "p": 0,
+           "k": 715
+          },
+          "resume": {
+           "f": "803ef6a49372c9d3",
+           "p": 0,
+           "k": 176
+          },
+          "exercices": {
+           "f": "f790a7c2ea2c00ad",
+           "p": 0,
+           "k": 760
+          },
+          "correction": {
+           "f": "41ecb3f24e59c852",
+           "p": 1,
+           "k": 2480
+          },
+          "qcm": {
+           "f": "19fcd2d9328c8f6d",
+           "p": 0,
+           "k": 392
+          }
+         },
+         "beamer": {
+          "f": "08fd4206c885dd39",
+          "m": "4ba7390ab04e0c43",
+          "p": 0,
+          "n": 186,
+          "nf": 59,
+          "kb": 709
+         }
+        },
+        {
+         "id": "2se-s2-02",
+         "titre": "Équations différentielles",
+         "ex": 69,
+         "parts": {
+          "cours": {
+           "f": "eb273e73bbe8025f",
+           "p": 0,
+           "k": 628
+          },
+          "resume": {
+           "f": "f71c93ba741b6b01",
+           "p": 0,
+           "k": 169
+          },
+          "exercices": {
+           "f": "2fd699150b91c18d",
+           "p": 0,
+           "k": 1783
+          },
+          "correction": {
+           "f": "7aaf83ed2d28b658",
+           "p": 1,
+           "k": 1651
+          },
+          "qcm": {
+           "f": "ef2f28210191fc09",
+           "p": 0,
+           "k": 333
+          }
+         },
+         "beamer": {
+          "f": "72e7c5847887e1b4",
+          "m": "da689b5101de6185",
+          "p": 0,
+          "n": 172,
+          "nf": 58,
+          "kb": 668
+         }
+        },
+        {
+         "id": "2se-s2-03",
+         "titre": "Calcul intégral",
+         "ex": 73,
+         "parts": {
+          "cours": {
+           "f": "d66396dc7fe49522",
+           "p": 0,
+           "k": 741
+          },
+          "resume": {
+           "f": "442c7308dd29df8e",
+           "p": 0,
+           "k": 1533
+          },
+          "exercices": {
+           "f": "4a3bdf856f6ae4a2",
+           "p": 0,
+           "k": 805
+          },
+          "correction": {
+           "f": "073a3d67d01a424f",
+           "p": 1,
+           "k": 2174
+          },
+          "qcm": {
+           "f": "061c451d49568ad8",
+           "p": 0,
+           "k": 458
+          }
+         },
+         "beamer": {
+          "f": "93c004f39b10e24a",
+          "m": "a6084879ddb77fce",
+          "p": 0,
+          "n": 185,
+          "nf": 77,
+          "kb": 683
+         }
+        },
+        {
+         "id": "2se-s2-04",
+         "titre": "Géométrie dans l’espace",
+         "ex": 71,
+         "parts": {
+          "cours": {
+           "f": "cd92f8b285beeeab",
+           "p": 0,
+           "k": 1425
+          },
+          "resume": {
+           "f": "92d572ed6e746447",
+           "p": 0,
+           "k": 336
+          },
+          "exercices": {
+           "f": "e052daf9db331280",
+           "p": 0,
+           "k": 888
+          },
+          "correction": {
+           "f": "51c5ce3dce94c080",
+           "p": 1,
+           "k": 2426
+          },
+          "qcm": {
+           "f": "27761a82c6dfecb8",
+           "p": 0,
+           "k": 1299
+          }
+         },
+         "beamer": {
+          "f": "7694a830ef2519cd",
+          "m": "f4e5c37cf8bdcf91",
+          "p": 0,
+          "n": 251,
+          "nf": 103,
+          "kb": 741
+         }
+        },
+        {
+         "id": "2se-s2-05",
+         "titre": "Calcul des probabilités",
+         "ex": 74,
+         "parts": {
+          "cours": {
+           "f": "a8ed6c2604c28bff",
+           "p": 0,
+           "k": 653
+          },
+          "resume": {
+           "f": "779a853541dfa3fb",
+           "p": 0,
+           "k": 202
+          },
+          "exercices": {
+           "f": "592d2f81569eaa75",
+           "p": 0,
+           "k": 331
+          },
+          "correction": {
+           "f": "b913b00abe616b3a",
+           "p": 1,
+           "k": 1634
+          },
+          "qcm": {
+           "f": "70606d1fec52b23e",
+           "p": 0,
+           "k": 355
+          }
+         },
+         "beamer": {
+          "f": "8b40d860db66a5f9",
+          "m": "1c21b4b2d85dd6f0",
+          "p": 0,
+          "n": 242,
+          "nf": 97,
+          "kb": 770
+         }
+        }
+       ],
+       "devoirs": [
+        {
+         "n": 1,
+         "versions": []
+        },
+        {
+         "n": 2,
+         "versions": []
+        },
+        {
+         "n": 3,
+         "versions": []
+        }
+       ]
+      }
+     }
+    }
+   ]
+  }
+ ]
+}
